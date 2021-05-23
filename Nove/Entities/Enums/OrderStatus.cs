@@ -2,7 +2,7 @@
 {
     enum OrderStatus : int
     {
-        PengingPayment = 0,
+        PendingPayment = 0,
         Processing = 1,
         Shipped = 2,
         Delivered = 3

@@ -1,5 +1,6 @@
 ﻿using System;
 using Course09.Entities.Enums;
+
 namespace Course09.Entities
 {
     class Order
