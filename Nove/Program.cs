@@ -17,6 +17,10 @@ namespace Nove
             };
 
             Console.WriteLine(order);
+
+            string txt = OrderStatus.PendingPayment.ToString();
+
+            Console.WriteLine(txt);
         }
     }
 }
